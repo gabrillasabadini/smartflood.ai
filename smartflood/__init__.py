@@ -1,0 +1,3 @@
+"""
+SmartFlood AI package initialization.
+"""
